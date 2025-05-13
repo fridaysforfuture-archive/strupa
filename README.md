@@ -12,7 +12,7 @@
 | English            | Organizational Guidelines      | National level                            | Structure Working Group (dissolved)              |
 
 ---
-📚 **Weitere Informationen findest du im [Wiki](./wiki)** – inklusive ausführlicher Erläuterungen zur Entstehung, Arbeitsweise und Anwendung des Strukturpapiers.
+📚 **Weitere Informationen findest du im [Wiki](https://github.com/fridaysforfuture-archive/strupa/wiki) – inklusive ausführlicher Erläuterungen zur Entstehung, Arbeitsweise und Anwendung des Strukturpapiers.
 
 ## Übersicht: StruPa-Versionen
 > ⚠️ **Hinweis:** Diese Tabelle befindet sich im Aufbau – noch nicht alle StruPa-Versionen und Anlagen sind vollständig erfasst.  
