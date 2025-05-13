@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/badge/license-CC--BY--SA--4.0-lightgrey)](https://creativecommons.org/licenses/by-sa/4.0/) 
 ![Language](https://img.shields.io/badge/language-German-red) 
 ![Research Use](https://img.shields.io/badge/suitable%20for-Research-blueviolet)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=fridaysforfuture-archive.strupa)
 
 | Language           | Category                       | Organizational Level                      | Responsible Workinggroup                         |
 |--------------------|--------------------------------|-------------------------------------------|--------------------------------------------------|
