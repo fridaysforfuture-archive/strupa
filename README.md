@@ -7,10 +7,17 @@
 ![Research Use](https://img.shields.io/badge/suitable%20for-Research-blueviolet)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=fridaysforfuture-archive.strupa)
 
-| Language           | Category                       | Organizational Level                      | Responsible Workinggroup                         |
-|--------------------|--------------------------------|-------------------------------------------|--------------------------------------------------|
-| Deutsch            | Organisationsrichtlinien       | Bundesebene                               | Struktur-AG (aufgelöst)                          |
-| English            | Organizational Guidelines      | National level                            | Structure Working Group (dissolved)              |
+| Sprache / Language | Kategorie / Category           | Organisationslevel / Organizational Level | Verantwortliche Arbeitsgruppe / Responsible Workinggroup |
+|--------------------|--------------------------------|-------------------------------------------|----------------------------------------------------------|
+| Deutsch            | Organisationsrichtlinien       | Bundesebene                               | Struktur-AG (aufgelöst)                                  |
+| English            | Organizational Guidelines      | National level                            | Structure Working Group (dissolved)                      |
+
+## 📑 Beschreibung / Description
+> 🇩🇪 Das Strukturpapier („StruPa“) dient als internes Regelwerk der Bewegung Fridays for Future Deutschland.
+> Es legt grundlegende Prinzipien, Entscheidungsprozesse, Kommunikationswege sowie Arbeits- und Organisationsformen innerhalb der Bewegung fest. Im Gegensatz zu einer juristischen Satzung handelt es sich nicht um ein formell-rechtliches Dokument, sondern um eine konsensbasierte, sich entwickelnde Grundlage für Zusammenarbeit und Struktur.
+
+> 🇬🇧 The "Strukturpapier" (StruPa) serves as an internal framework document for the Fridays for Future Germany movement.
+> It defines core principles, decision-making processes, communication channels, and modes of collaboration and organization within the movement. Unlike a formal legal charter, the StruPa is a consensus-based, evolving document that reflects the decentralized and participatory nature of the climate justice movement.
 
 ---
 📚 **Weitere Informationen** findest du im [Wiki](https://github.com/fridaysforfuture-archive/strupa/wiki) – inklusive ausführlicher Erläuterungen zur Entstehung, Arbeitsweise und Anwendung des Strukturpapiers.
